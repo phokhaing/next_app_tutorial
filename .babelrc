@@ -1,0 +1,3 @@
+{
+  "presets": ["next/babel"] // // disable load SWC binary
+}
